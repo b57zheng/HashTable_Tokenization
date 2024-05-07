@@ -1,11 +1,10 @@
-Here's a sample README for your GitHub repository that you can use to showcase your project:
 
 ---
 
-# AI Tokenizer HashTable
+#  HashTable Tokenizer
 
 ## Overview
-The AI Tokenizer HashTable is a C++ implemented hash table designed for efficient tokenization in AI systems. This project provides a solution to convert text into numeric tokens and vice versa, facilitating the intermediate processing of large language models like ChatGPT. The implementation uses a custom hash function with separate chaining to resolve collisions, optimized for quick retrieval and insertion of token-word pairs.
+The HashTable Tokenizer is a C++ implemented hash table designed for efficient tokenization. This project provides a solution to convert text into numeric tokens and vice versa, facilitating the intermediate processing of large language modele. The implementation uses a custom hash function with separate chaining to resolve collisions, optimized for quick retrieval and insertion of token-word pairs.
 
 ## Features
 - **Custom Hashing**: Implements a unique hashing function for distributing words efficiently across the hash table.
@@ -56,12 +55,4 @@ valgrind ./a.out < test01.in
 ```
 Replace `test01.in` with your test input file.
 
-## Contributing
-Contributions to the AI Tokenizer HashTable are welcome. Please feel free to fork the repository, make changes, and submit pull requests.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ---
-
-Make sure to adjust any specific paths or details to suit your actual project setup and naming conventions!
