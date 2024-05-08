@@ -1,4 +1,3 @@
-
 ---
 
 #  HashTable Tokenizer
@@ -6,7 +5,7 @@
 ## Overview
 The HashTable Tokenizer is a C++ implemented hash table designed for efficient tokenization. This project provides a solution to convert text into numeric tokens and vice versa, facilitating the intermediate processing of large language modele. The implementation uses a custom hash function with separate chaining to resolve collisions, optimized for quick retrieval and insertion of token-word pairs.
 
-<img width="296" alt="image" src="https://github.com/b57zheng/HashTable_Tokenization/assets/98293562/8c70e026-5529-4d42-b066-a3ed73f31883">
+<img width="344" alt="image" src="https://github.com/b57zheng/HashTable_Tokenizer/assets/98293562/47c0bede-02c5-49cf-b188-837b346dcc2d">
 
 ## Features
 - **Custom Hashing**: Implements a unique hashing function for distributing words efficiently across the hash table.
