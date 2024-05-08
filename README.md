@@ -57,7 +57,7 @@ valgrind ./a.out < test01.in
 ```
 Replace `test01.in` with your test input file.
 
-Contributing
+## Contributing
 Contributions to the HashTable Tokenizer are welcome. Please feel free to fork the repository, make changes, and submit pull requests.
 
 ---
